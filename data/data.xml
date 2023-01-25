@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Authors>
+	<Student>
+		<StudentId>1</StudentId>
+		<StudentName>Le Duc Giang </StudentName>
+		<DoB>21/04/1993</DoB>
+		<ClassName>
+ĐH Tin 7A2</ClassName>
+		<TeamLeader>Yes</TeamLeader>
+	</Student>
+	
+	<Student>
+		<StudentId>2</StudentId>
+		<StudentName>
+Nguyen Cong Duan</StudentName>
+		<DoB>09/05/1994</DoB>
+		<ClassName>
+ĐH Tin 7A2</ClassName>
+		<TeamLeader>No</TeamLeader>
+	</Student>
+	
+	<Student>
+		<StudentId>3</StudentId>
+		<StudentName>
+Nguyen Hong Hai</StudentName>
+		<DoB>10/06/1995</DoB>
+		<ClassName>
+ĐH Tin 7A2</ClassName>
+		<TeamLeader>No</TeamLeader>
+	</Student>
+</Authors>
